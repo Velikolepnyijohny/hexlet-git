@@ -1,0 +1,6 @@
+[submodule "hexlet-git"]
+	path = hexlet-git
+	url = https://github.com/Velikolepnyijohny/hexlet-git.git
+[submodule "python-package"]
+    path = python-package
+    url = https://github.com/Velikolepnyijohny/python-package.git
