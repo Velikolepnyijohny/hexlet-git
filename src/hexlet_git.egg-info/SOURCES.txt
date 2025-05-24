@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/capitalize.py
+src/reverse.py
+src/hexlet_git.egg-info/PKG-INFO
+src/hexlet_git.egg-info/SOURCES.txt
+src/hexlet_git.egg-info/dependency_links.txt
+src/hexlet_git.egg-info/top_level.txt
+tests/test_capitalize.py
+tests/test_reverse.py
