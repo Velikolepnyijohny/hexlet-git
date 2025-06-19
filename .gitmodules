@@ -4,3 +4,6 @@
 [submodule "python-package"]
     path = python-package
     url = https://github.com/Velikolepnyijohny/python-package.git
+[submodule "hexlet-my-first-workflow"]
+	path = hexlet-my-first-workflow
+	url = https://github.com/Velikolepnyijohny/hexlet-my-first-workflow.git
